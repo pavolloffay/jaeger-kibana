@@ -1,6 +1,6 @@
 # Jaeger Kibana
 
-Project guidelines how to use Jaeger with Kibana
+Guidelines how to use Jaeger with Kibana.
 
 ## Searching on Tags
 
