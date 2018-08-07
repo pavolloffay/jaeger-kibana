@@ -64,4 +64,4 @@ Error: mapping set to strict, dynamic introduction of [nested] within [index-pat
 
 Now you can use following query on Discover page `operationName = "foo" AND  tags.value= "15" AND tags.key="root.child55"`.
 
-[kibana-nested-support-plugin]: kibana-nested-plugin-support-plugin.jpg "Kibana nested support plugin"
+![kibana-nested-support-plugin](./kibana-nested-plugin-support-plugin.jpg)
